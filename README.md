@@ -1,1 +1,1 @@
-Quête 1 GIT Wild Code School
+Quêtes GIT Wild Code School
