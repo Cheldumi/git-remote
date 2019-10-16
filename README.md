@@ -1,1 +1,3 @@
-Quêtes GIT Wild Code School
+Quête 2 GIT Wild Code School
+
+Petite modiication du readme.
